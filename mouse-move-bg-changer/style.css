@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    font-family: sans-serif;
+}
+
+#text-content {
+    display: flex;
+    width: 100vw;
+    justify-content: center;
+    align-items: center;
+}
